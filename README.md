@@ -1,37 +1,22 @@
-# LearnJavaScript
-
-#### 介绍
+# learnJavaScript
 JavaScript
 
-#### 软件架构
-软件架构说明
+## 1 JavaScript介绍
 
+### 1.1 JavaScript是什么
 
-#### 安装教程
+1.JavaScript（是什么？）  
+是一种运行在客户端（浏览器）的编程语言，实现人机交互效果。  
+2.作用（做什么？）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 网页特效（监听用户的一些行为让网页作出对应的反馈）
+- 表单验证（针对表单数据的合法性进行判断）
+- 数据交互（获取后台的数据，渲染到前端）
+- 服务端编程（node.js）
+  3.JavaScript的组成（有什么？）
+- ECMAScript
+  - 规定了js基础语法核心知识。
+    - 比如：变量、分支语句、循环语句、对象等等
+- WebAPIs
+  - DOM 操作文档，比如对页面元素进行移动、大小、添加删除等操作
+  - BOM 操作浏览器，比如页面弹窗，检测窗口宽度、存储数据到浏览器等等
